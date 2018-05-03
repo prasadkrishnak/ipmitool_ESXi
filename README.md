@@ -1,2 +1,2 @@
 # ipmitool_ESXi
-This is to store ipmitool for ESXi
+This repository contain an ipmitool version compatible for VMware ESXi
